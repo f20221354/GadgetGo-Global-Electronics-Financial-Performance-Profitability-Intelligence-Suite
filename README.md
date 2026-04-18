@@ -1,0 +1,2 @@
+# GadgetGo-Global-Electronics-Financial-Performance-Profitability-Intelligence-Suite
+This Global Sales Analytics Dashboard for GadgetGo tracks $1M in revenue and $169K in profit. It features a "Profitability First" design, visualizing 15.92% margins and 70.19% sales growth. With multi-region mapping and category-level pie charts, it empowers stakeholders to optimize global supply chains and product pricing.
